@@ -143,10 +143,6 @@ This structure ensures proper normalization and avoids data redundancy while mai
 
 ---
 
-## 📊 ER Diagram Preview
-
-![Improved ER Diagram](IgErDesign.png)
-
 ---
 
 ## 🚀 Use Cases

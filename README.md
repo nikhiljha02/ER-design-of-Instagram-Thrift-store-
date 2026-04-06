@@ -130,7 +130,7 @@ Stores delivery details for orders.
 * **Orders → Payments** = One-to-One
 * **Orders → Shipping** = One-to-One
 
-This structure ensures proper normalization and avoids data redundancy while maintaining scalability ([iNetTutor.com][1])
+This structure ensures proper normalization and avoids data redundancy while maintaining scalability.
 
 ---
 
@@ -144,12 +144,6 @@ This structure ensures proper normalization and avoids data redundancy while mai
 ---
 
 ## 📊 ER Diagram Preview
-
-### 🖼️ Main Diagram
-
-![ER Diagram](ERday1design.png)
-
-### 🖼️ Improved Diagram
 
 ![Improved ER Diagram](IgErDesign.png)
 
@@ -183,5 +177,3 @@ This structure ensures proper normalization and avoids data redundancy while mai
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
-
-[1]: https://www.inettutor.com/diagrams/ecommerce-entity-relationship-diagram/?utm_source=chatgpt.com "Ecommerce Entity Relationship Diagram"

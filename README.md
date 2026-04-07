@@ -1,5 +1,8 @@
 # 🛒 E-Commerce ER Diagram (Instagram Thrift Store)
 
+Eraser Link
+https://app.eraser.io/workspace/2fh3Xn2RqXbqSlQgkeWd?origin=share
+
 ## 📌 Overview
 
 This project represents an **Entity-Relationship (ER) Diagram** for an Instagram-based thrift store.
